@@ -1,0 +1,17 @@
+a4bbc5d6d67d8e5a3cc7ec9420fcad32 *DESCRIPTION
+98e542bc023c1ba38ac21740812b635a *R/abc.R
+f50478a7c9e3d33bb83c3adf28f73930 *R/abc.plot.R
+abe7b5d1eee589bb6074d1ebbe9d2fd5 *R/fi.R
+6f2b7ecfb0493b382643074fae649ab9 *R/fi.plot.R
+c1ac96ae6580af5c0194e80930c1a28a *R/she.R
+4735f9d26204c4b83c5c4bd885c942de *R/she.plot.R
+05f7e5055d06c10c36959b08d47c2c70 *data/Factors.rda
+ff8cc760b9b71b2512f734a219f1e9c0 *data/LF.rda
+0b9dd8612adc4c7523f4e6561297c3af *data/NB.rda
+77f108a1e7feaa493a8b73200be13453 *man/Factors.Rd
+f0fe7b2360bf06484f7bf34a67a30869 *man/LF.Rd
+45235ad60b735cd9a638248953d62d8a *man/NB.Rd
+860442aa36c072cf0ed81edd8f7b0c59 *man/abc.Rd
+ab7a4df0a66f1f11249fe99541f310fa *man/fi.Rd
+109d98fdfa817c36a880548e76c8182d *man/forams-package.Rd
+843e2f1a7e9db486f59957260ed8a73a *man/she.Rd
