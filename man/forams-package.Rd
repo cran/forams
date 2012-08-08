@@ -9,19 +9,18 @@ Foraminifera and Community Ecology Analyses
 SHE, FORAM Index and ABC Method analyses and custom plot functions for community data.
 }
 \details{
+\tabular{ll}{
+Package: \tab forams\cr
+Type: \tab Package\cr
+Version: \tab 2.0\cr
+Date: \tab 2012-08-08\cr
+License: \tab GLP (>=2)\cr
+Depends: \tab methods, vegan, permute\cr
+}
 
 This package always uses data frames with \emph{taxa} as rows and sites or variables as columns. It also provides customizable plot functions to use with the objects resulting from the analyses, and randomly generated example datasets.
 
 The analyses performed by this package are: SHE, FORAM Index and ABC Method.
-
-\tabular{ll}{
-Package: \tab forams\cr
-Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2011-08-20\cr
-License: \tab GPL (>= 2)\cr
-LazyLoad: \tab yes\cr
-}
 }
 \author{
 Rodrigo Aluizio
@@ -39,18 +38,20 @@ Warwick, R.M., & Clarke, K.R. (1994). Relearning the ABC: taxonomic changes and 
 
 Wilson, B., Dawe, R., Gopee, A., Grant, S., Kissoon, A., Young, T., Noon, C., McLean, A. & Singh, K. (2010). Determining Boundaries between Abundance Biozones Using Minimal Equipment. \emph{International Journal of Ecology} \bold{2010}, 1-14.
 }
+
 \keyword{ package }
+
 \seealso{
- \code{\link{abc}}, \code{\link{fi}}, \code{\link{she}}
+ \code{\link[forams]{abc}}, \code{\link[forams]{fi}}, \code{\link[forams]{she}}
 }
 \examples{
 data(NB)
 data(Factors)
 data(LF)
 # ABC
-abc.plot(abc(NB))
+plot(abc(NB))
 # FORAM Index
-fi.plot(fi(LF, Factors))
+plot(fi(LF, Factors))
 # SHE
-she.plot(she(LF))
+plot(she(LF))
 }

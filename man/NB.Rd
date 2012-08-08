@@ -5,7 +5,7 @@
 ABC Method Dataset
 }
 \description{
-An example dataset containing some \emph{taxa} abundances and Biomasses to use in exemples of the \code{\link{abc}} function.
+An example dataset containing some \emph{taxa} abundances and Biomasses to use in exemples of the \code{\link[forams]{abc}} function.
 }
 \usage{data(NB)}
 \format{

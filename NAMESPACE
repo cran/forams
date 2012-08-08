@@ -1,1 +1,9 @@
-export(abc, abc.plot, fi, fi.plot, she, she.plot)
+exportPattern("^[[:alpha:]]+")
+exportMethods(
+    "plot" 
+)
+exportClasses(
+    "abc",
+     "fi",
+     "she" 
+)

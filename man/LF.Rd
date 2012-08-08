@@ -5,7 +5,7 @@
 FORAM Index and SHE dataset
 }
 \description{
-An example dataset containing some \emph{taxa} abundances to use in exemples of the \code{\link{fi}} and \code{\link{she}} functions.
+An example dataset containing some \emph{taxa} abundances to use in exemples of the \code{\link[forams]{fi}} and \code{\link[forams]{she}} functions.
 }
 \usage{data(LF)}
 \format{

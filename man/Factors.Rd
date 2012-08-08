@@ -5,7 +5,7 @@
 FORAM Index Factors
 }
 \description{
-An example dataset defining factors levels to use with the \code{\link{fi}} function.
+An example dataset defining factors levels to use with the \code{\link[forams]{fi}} function.
 }
 \usage{data(Factors)}
 \format{
