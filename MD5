@@ -1,5 +1,5 @@
 ca64e8916bbd80aeea6694ff3ef05737 *CHANGELOG
-80d643f8f8bcb3dc5f70f74dc9feb1e9 *DESCRIPTION
+3d6d7cd8e75a2b760b02f2b984bf1324 *DESCRIPTION
 eb20ed3de3da85db00a7060eea18412f *NAMESPACE
 ac0a478778fbbcf3cede6cd1d3a207f3 *R/Classes.r
 b20d7aa2da166b89c347a35b708a0e21 *R/abc.r
@@ -18,9 +18,9 @@ ee6a76bc550f85861e035d01b174fbd6 *man/abc-class.Rd
 d61301d945ded4b297e0af6f3650f27f *man/abc.Rd
 0a5af65282925666191bd7af1180a08e *man/fi-class.Rd
 67f36f0df4822757ce94a7bc3c26f72f *man/fi.Rd
-e4e518e667949698654a1c03825a632c *man/forams-package.Rd
+8e5f2cce923f9346d50ecf7fd0d6b973 *man/forams-package.Rd
 4e2f3f95abd2b4bcfc2542426708a8a2 *man/plot.abc.Rd
-a0ae81863eb66ef059e00b1337e40418 *man/plot.fi.Rd
+657b44d293a574aef3d8b06308f95b4f *man/plot.fi.Rd
 30060af7068d572173d472c6f37c9c29 *man/plot.she.Rd
 b26a74ec7c65093274e80d6f90d35907 *man/she-class.Rd
 b0c029385bf2cfbbaf48b6e53653bd10 *man/she.Rd

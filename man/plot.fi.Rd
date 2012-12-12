@@ -1,5 +1,5 @@
 \name{plot.fi}
-\alias{fi.plot}
+\alias{plot.fi}
 \alias{plot,fi-method}
 
 \title{
