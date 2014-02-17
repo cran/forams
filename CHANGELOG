@@ -13,3 +13,7 @@
 2012-11-06 Rodrigo
 
 	* updated the custom plot functions documentation.
+	
+2014-02-17 Rodrigo
+
+	* updated DESCRIPTION file to import packages Namespaces
