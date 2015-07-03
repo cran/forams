@@ -12,10 +12,10 @@ SHE, FORAM Index and ABC Method analyses and custom plot functions for community
 \tabular{ll}{
 Package: \tab forams\cr
 Type: \tab Package\cr
-Version: \tab 2.0-4\cr
-Date: \tab 2014-02-17\cr
+Version: \tab 2.0\cr
+Date: \tab 2012-08-08\cr
 License: \tab GLP (>=2)\cr
-Depends: \tab methods, vegan\cr
+Depends: \tab methods, vegan, permute\cr
 }
 
 This package always uses data frames with \emph{taxa} as rows and sites or variables as columns. It also provides customizable plot functions to use with the objects resulting from the analyses, and randomly generated example datasets.

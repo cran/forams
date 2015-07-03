@@ -16,4 +16,9 @@
 	
 2014-02-17 Rodrigo
 
-	* updated DESCRIPTION file to import packages Namespaces
+	* updated DESCRIPTION file to import packages from NAMESPACE
+	
+2015-07-03
+	
+	* updates NAMESPACE file to import var function from package stats and several functions from package graphics
+	* updated DESCRIPTION file to import packages from NAMESPACE
