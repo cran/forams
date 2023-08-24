@@ -10,6 +10,6 @@ exportClasses(
 
 importFrom(vegan, specnumber, diversity)
 importFrom(stats, var)
-importFrom(graphics, abline, axis, legend, lines, mtext, par, points, polygon)
+importFrom("graphics", "abline", "axis", "legend", "lines", "mtext", "par", "points", "polygon")
 
 import(methods)

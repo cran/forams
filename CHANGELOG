@@ -18,7 +18,13 @@
 
 	* updated DESCRIPTION file to import packages from NAMESPACE
 	
-2015-07-03
+2015-07-03 Rodrigo
 	
-	* updates NAMESPACE file to import var function from package stats and several functions from package graphics
+	* updates NAMESPACE file to import var function from package stats
 	* updated DESCRIPTION file to import packages from NAMESPACE
+	
+2015-08-24 Rodrigo
+	
+	* updates NAMESPACE file to import functions from graphics
+	* version number correction across files
+	* documantation chances to be up-to-date with actual bild system

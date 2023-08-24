@@ -12,8 +12,8 @@ SHE, FORAM Index and ABC Method analyses and custom plot functions for community
 \tabular{ll}{
 Package: \tab forams\cr
 Type: \tab Package\cr
-Version: \tab 2.0\cr
-Date: \tab 2012-08-08\cr
+Version: \tab 2.0-6\cr
+Date: \tab 2023-08-24\cr
 License: \tab GLP (>=2)\cr
 Depends: \tab methods, vegan, permute\cr
 }
